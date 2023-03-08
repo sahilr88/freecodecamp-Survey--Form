@@ -1,0 +1,424 @@
+Skip to content
+Search
+Search 9,000+ tutorials
+
+Menu
+Account Settings for fccd55d8b63-b8f7-4498-94f1-c590ccf339fb
+Username
+fccd55d8b63-b8f7-4498-94f1-c590ccf339fb
+Personal Information
+Name
+Location
+Picture
+About
+Night Mode
+Campfire Mode
+This adds the pleasant sound of acoustic guitar throughout the website. You'll get musical feedback as you type in the editor, complete challenges, claim certifications, and more.
+Campfire Volume: 50
+Enable Keyboard Shortcuts
+Privacy Settings
+The settings in this section enable you to control what is shown on your freeCodeCamp public portfolio. Press save to save your changes.
+
+My profile
+Your certifications will be disabled, if set to private.
+My name
+Your name will not appear on your certifications, if this is set to private.
+My location
+My about
+My points
+My heatmap
+My certifications
+Your certifications will be disabled, if set to private.
+My portfolio
+My timeline
+Your certifications will be disabled, if set to private.
+My donations
+To see what data we hold on your account, click the "Download your data" button below
+
+Email Settings
+Current Email
+sahilrajurkar88@gmail.com
+
+New Email
+Confirm New Email
+Send me Quincy's weekly email
+Your Internet Presence
+GitHub
+https://github.com/user-name
+LinkedIn
+https://www.linkedin.com/in/user-name
+Twitter
+https://twitter.com/user-name
+Personal Website
+https://example.com
+Portfolio Settings
+Share your non-freeCodeCamp projects, articles or accepted pull requests.
+
+Academic Honesty Policy
+Before you can claim a verified certification, you must accept our Academic Honesty Pledge, which reads:
+
+"I understand that plagiarism means copying someone else’s work and presenting the work as if it were my own, without clearly attributing the original author."
+
+"I understand that plagiarism is an act of intellectual dishonesty, and that people usually get kicked out of university or fired from their jobs if they get caught plagiarizing."
+
+"Aside from using open source libraries such as jQuery and Bootstrap, and short snippets of code which are clearly attributed to their original author, 100% of the code in my projects was written by me, or along with another person going through the freeCodeCamp curriculum with whom I was pair programming in real time."
+
+"I pledge that I did not plagiarize any of my freeCodeCamp.org work. I understand that freeCodeCamp.org’s team will audit my projects to confirm this."
+
+In the situations where we discover instances of unambiguous plagiarism, we will replace the person in question’s certification with a message that "Upon review, this account has been flagged for academic dishonesty."
+
+As an academic institution that grants achievement-based certifications, we take academic honesty very seriously. If you have any questions about this policy, or suspect that someone has violated it, you can email support@freecodecamp.org and we will investigate.
+
+Certifications
+Responsive Web Design
+Project Name	Solution
+Build a Survey Form	
+Build a Tribute Page	
+Build a Technical Documentation Page	
+Build a Product Landing Page	
+Build a Personal Portfolio Webpage	
+JavaScript Algorithms and Data Structures
+Project Name	Solution
+Palindrome Checker	
+Roman Numeral Converter	
+Caesars Cipher	
+Telephone Number Validator	
+Cash Register	
+Front End Development Libraries
+Project Name	Solution
+Build a Random Quote Machine	
+Build a Markdown Previewer	
+Build a Drum Machine	
+Build a JavaScript Calculator	
+Build a 25 + 5 Clock	
+Data Visualization
+Project Name	Solution
+Visualize Data with a Bar Chart	
+Visualize Data with a Scatterplot Graph	
+Visualize Data with a Heat Map	
+Visualize Data with a Choropleth Map	
+Visualize Data with a Treemap Diagram	
+Relational Database
+Project Name	Solution
+Celestial Bodies Database	
+World Cup Database	
+Salon Appointment Scheduler	
+Periodic Table Database	
+Number Guessing Game	
+Back End Development and APIs
+Project Name	Solution
+Timestamp Microservice	
+Request Header Parser Microservice	
+URL Shortener Microservice	
+Exercise Tracker	
+File Metadata Microservice	
+Quality Assurance
+Project Name	Solution
+Metric-Imperial Converter	
+Issue Tracker	
+Personal Library	
+Sudoku Solver	
+American British Translator	
+Scientific Computing with Python
+Project Name	Solution
+Arithmetic Formatter	
+Time Calculator	
+Budget App	
+Polygon Area Calculator	
+Probability Calculator	
+Data Analysis with Python
+Project Name	Solution
+Mean-Variance-Standard Deviation Calculator	
+Demographic Data Analyzer	
+Medical Data Visualizer	
+Page View Time Series Visualizer	
+Sea Level Predictor	
+Information Security
+Project Name	Solution
+Stock Price Checker	
+Anonymous Message Board	
+Port Scanner	
+SHA-1 Password Cracker	
+Secure Real Time Multiplayer Game	
+Machine Learning with Python
+Project Name	Solution
+Rock Paper Scissors	
+Cat and Dog Image Classifier	
+Book Recommendation Engine using KNN	
+Linear Regression Health Costs Calculator	
+Neural Network SMS Text Classifier	
+Legacy Certifications
+Legacy Full Stack Certification
+Once you've earned the following freeCodeCamp certifications, you'll be able to claim the Legacy Full Stack Certification:
+
+Responsive Web Design
+JavaScript Algorithms and Data Structures
+Front End Development Libraries
+Data Visualization
+Back End Development and APIs
+Legacy Information Security and Quality Assurance
+Legacy Front End
+Project Name	Solution
+Build a Personal Portfolio Webpage	
+Build a Random Quote Machine	
+Build a 25 + 5 Clock	
+Build a JavaScript Calculator	
+Show the Local Weather	
+Use the TwitchTV JSON API	
+Build a Tribute Page	
+Build a Wikipedia Viewer	
+Build a Tic Tac Toe Game	
+Build a Simon Game	
+Legacy Back End
+Project Name	Solution
+Timestamp Microservice	
+Request Header Parser Microservice	
+URL Shortener Microservice	
+Image Search Abstraction Layer	
+File Metadata Microservice	
+Build a Voting App	
+Build a Nightlife Coordination App	
+Chart the Stock Market	
+Manage a Book Trading Club	
+Build a Pinterest Clone	
+Legacy Data Visualization
+Project Name	Solution
+Build a Markdown Previewer	
+Build a freeCodeCamp Forum Homepage	
+Build a Recipe Box	
+Build the Game of Life	
+Build a Roguelike Dungeon Crawler Game	
+Visualize Data with a Bar Chart	
+Visualize Data with a Scatterplot Graph	
+Visualize Data with a Heat Map	
+Show National Contiguity with a Force Directed Graph	
+Map Data Across the Globe	
+Legacy Information Security and Quality Assurance
+Project Name	Solution
+Metric-Imperial Converter	
+Issue Tracker	
+Personal Library	
+Stock Price Checker	
+Anonymous Message Board	
+Danger Zone
+Please be careful. Changes in this section are permanent.
+
+freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546)
+
+Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.
+
+You can make a tax-deductible donation here.
+
+Trending Guides
+Hello World in Java
+What is a 429 Error?
+Inline Style in HTML
+Python Absolute Value
+Java Switch Statement
+Change Font with HTML
+502 Bad Gateway Error
+Static Keyword in Java
+String to Number in JS
+Python Global Variable
+Python Set
+What is REST?
+What is CRUD?
+%.2f in Python
+Git Reset Origin
+What is Localhost?
+JS Array.includes()
+Compare Dates in JS
+Python Split String
+Python enumerate()
+Create a Set in Python
+Remove a Dir in Linux
+What is Coding Used For?
+JavaScript String Format
+JavaScript String to Date
+What’s a Data Analyst Do?
+Refresh Page in JavaScript
+Remove Underline from Link
+How to Clear an Array in JS
+Capitalize 1st Letter in JS
+About
+Alumni Network
+Open Source
+Shop
+Support
+Sponsors
+Academic Honesty
+Code of Conduct
+Privacy Policy
+Terms of Service
+Copyright Policy
+×Close
+Solution for Build a Survey Form
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programmers Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div id="heading">
+    <h1 id=title>Programmers Voice! Tell us your choice!</h1>
+    <p id="description">We love to know about which technology and tools software engineers are using world wide! Each and every Developers opinions are very precious to us!</p>
+    </div>
+    <div id="main">
+        <form id="survey-form">
+        <div id="input-fields">
+            <label id="name-label"><b>Name:</b></label>
+            <input id="name" type="name" name="name" class="form" required placeholder="Full Name"><br>
+            <br>
+            <label id="email-label"><b>Email:</b></label>
+            <input id="email" type="email" name="email" class="form" required placeholder="example@mail.com"><br>
+            <br>
+            <label id="number-label"><b>Age:</b></label>
+            <input id="number" type="number" name="number" class="form" min="5" max="99" placeholder="12+">
+         </div>
+         <div id="dropdown-div"><br>
+            <label id="dropdown-label"><strong>Programming language you are expert at: </strong></label><br>
+            <select id="dropdown" name="code-lang" class="form">
+                <option value="C">C (Programming Language)</option>
+                <option value="Python">Python</option>
+                <option value="C#">C#</option>
+                <option value="php">PHP</option>
+                <option value="Js">Java Script</option>
+                <option value="Go">Go (Programming Language)</option>
+                <option value="ruby">Ruby on rails</option>
+                <option value="C++">C++</option>
+                <option value="Java">Java</option>
+            </select>
+         </div>
+         <div id="button-area">
+             <br>
+            <label id="job-label"><b>Employment Status:</b></label><br>
+            <input type="radio" class="radio-inline" name="gender" value="employed" checked> Full-time job holder.(Employed)<br>
+            <input type="radio" class="radio-inline" name="gender" value="freelancer"> Part-time job holder.(Freelancer)<br>
+            <input type="radio" class="radio-inline" name="gender" value="applier"> Looking for a job.(Applier)<br>
+            <input type="radio" class="radio-inline" name="gender" value="unemployed"> I am a student.(Unemployed)
+          </div>
+          <div id="button-area"><br>
+            <label id="os-label"><b>Operating system experience: </b></label><br>
+            <input type="checkbox" name="os1" value="windows" checked> I am experienced with Windows-OS<br>
+            <input type="checkbox" name="os2" value="linux"> I am experienced with Linux-OS<br>
+            <input type="checkbox" name="0s3" value="mac"> I am experienced with Mac-OS<br>
+          </div>
+
+          <div id="dropdown"><br><br>
+            <label id="dropdown-label"><strong>Programming language you wanna be expert: </strong></label><br>
+            <select id="dropdown" name="code-lang" class="form"><br><br>
+                <option value="C">C (Programming Language)</option>
+                <option value="Python">Python</option>
+                <option value="C#">C#</option>
+                <option value="php">PHP</option>
+                <option value="Js">Java Script</option>
+                <option value="Go">Go (Programming Language)</option>
+                <option value="ruby">Ruby on rails</option>
+                <option value="C++">C++</option>
+                <option value="Java">Java</option>
+            </select>
+         </div>
+          <div id="button-area"><br><br>
+            <label id="os-label"><b>Latest technology experience:</b></label><br>
+            <input type="checkbox" name="tech1" value="flutter"> Flutter UI<br>
+            <input type="checkbox" name="tech2" value="nodejs"> Node.js<br>
+            <input type="checkbox" name="tech3" value="tnflow"> Tensorflow<br>
+            <input type="checkbox" name="tech3" value="git"> Github<br>
+            <input type="checkbox" name="tech3" value="devops"> Dev-Ops<br>
+          </div>
+
+
+          <div id="ending"><br><br>
+            <label id="comments-label">Do you have any suggestion about this survey?</label><br>
+            <textarea style= height:120px;" class="form" placeholder="Please feel free to write a review..."></textarea><br><br>
+            <input id="submit" type="submit"  class="form">
+          </div>
+        </form>
+    </div>
+
+</body>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</html>
+CSS
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+/* css reset */
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("../images/Background.jpg");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #45b6eb;
+    color: #fff;
+    font-size: 1.2vw;
+   }
+
+  #heading {
+    max-width: 750px;
+    margin: 4rem auto;
+    padding: .6rem;
+  }
+  #main {
+      padding: 0% 20% 0% 20%;
+  }
+
+  #title {
+    font-size: 2.2rem;
+    text-align: center;
+    line-height: 1.2;
+    padding: .6rem;
+  }
+
+  #description {
+    font-size: 1.1rem;
+    text-align: center;
+    padding: .2rem;
+  }
+
+  #survey-form {
+    background-color: #2222425d;
+    padding: 3rem 2.5rem;
+    border-radius: 7px;
+  }
+
+  #submit {
+    background: #22d87d;
+    color: #fff;
+    padding: .7rem;
+    font-size: 1.15rem;
+    cursor: pointer;
+  }
+
+  #submit:hover {
+    background: rgb(9, 168, 89);
+  }
+
+.form {
+  width: 100%;
+  padding: .7rem;
+  border-radius: 6px;
+  font-size: 1.0rem;
+  border: none;
+}
+
+  @media only screen and (max-width:480px){
+
+  #main {
+    padding: 0% 0% 0% 0%;
+    }
+  }
